@@ -1,3 +1,5 @@
-#RESUME
+**RESUME**
 
-https://dinuionica.github.io/my-resume/
+My simple site of presentation.
+
+>LIVE:https://dinuionica.github.io/my-resume/
