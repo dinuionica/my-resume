@@ -1,4 +1,4 @@
-**RESUME**
+## Resume
 
 My simple site of presentation.
 
